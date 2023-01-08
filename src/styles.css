@@ -221,7 +221,7 @@ main h5 {
 }
 
 section.secondary-section {
-  background-color: #a6b6cd;
+  background-color: #a6b6cd42;
 }
 
 @media (max-width: 960px) {
